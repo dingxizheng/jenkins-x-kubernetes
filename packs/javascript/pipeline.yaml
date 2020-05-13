@@ -1,6 +1,6 @@
 extends:
   import: classic
-  file: javascript/pipeline.yaml
+  file: nodejs12x/pipeline.yaml
 pipelines:
   pullRequest:
     build:
